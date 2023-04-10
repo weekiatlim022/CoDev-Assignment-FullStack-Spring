@@ -1,0 +1,15 @@
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (1, '2023-04-08 12:00:00', 'Douglas Adams', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (2, '2023-04-08 12:00:00', 'Dan Brown', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (3, '2023-04-08 12:00:00', 'Jane Austen', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (4, '2023-04-08 12:00:00', 'Jane Davis', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (5, '2023-04-08 12:00:00', 'William Shakespeare', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (6, '2023-04-08 12:00:00', 'Michael Johnson', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (7, '2023-04-08 12:00:00', 'Sally Smith', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (8, '2023-04-08 12:00:00', 'Sarah Jones', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (9, '2023-04-08 12:00:00', 'Dan Brown', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (10, '2023-04-08 12:00:00', 'J. D. Salinger', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (11, '2023-04-08 12:00:00', 'David Brown', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (12, '2023-04-08 12:00:00', 'Paulo Coelho', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (13, '2023-04-08 12:00:00', 'Khaled Hosseini', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (14, '2023-04-08 12:00:00', 'John Green', '2023-04-08 12:00:00');
+INSERT INTO "authors" ("id", "created_at", "name", "updated_at") VALUES (15, '2023-04-08 12:00:00', 'Markus Zusak', '2023-04-08 12:00:00');

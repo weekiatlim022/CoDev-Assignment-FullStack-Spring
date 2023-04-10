@@ -1,0 +1,15 @@
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (1, '2023-04-08 12:00:00', '1984', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (2, '2023-04-08 12:00:00', 'To Kill a Mockingbird', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (3, '2023-04-08 12:00:00', 'The Catcher in the Rye', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (4, '2023-04-08 12:00:00', 'One Hundred Years of Solitude', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (5, '2023-04-08 12:00:00', 'Pride and Prejudice', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (6, '2023-04-08 12:00:00', 'Harry Potter and the Philosopher''s Stone', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (7, '2023-04-08 12:00:00', 'The Hitchhiker''s Guide to the Galaxy', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (8, '2023-04-08 12:00:00', 'The Lion, the Witch and the Wardrobe', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (9, '2023-04-08 12:00:00', 'The Da Vinci Code', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (10, '2023-04-08 12:00:00', 'The Catcher in the Rye', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (11, '2023-04-08 12:00:00', 'The Little Prince', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (12, '2023-04-08 12:00:00', 'The Alchemist', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (13, '2023-04-08 12:00:00', 'The Kite Runner', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (14, '2023-04-08 12:00:00', 'The Fault in Our Stars', '2023-04-08 12:00:00');
+INSERT INTO "books" ("id", "created_at", "name", "updated_at") VALUES (15, '2023-04-08 12:00:00', 'The Book Thief', '2023-04-08 12:00:00');

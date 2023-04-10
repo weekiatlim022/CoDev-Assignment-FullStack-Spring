@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;  
+    background: #FFFFFF;
+  }
+  
+  
+  .accordion {
+    position: absolute;
+    width: 500px;
+    height: 464px;
+    left: 710px;
+    top: 285px;
+  }
+  
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background: #F7ECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+  
+  .accordion-title:hover {
+    background-color: #3ab4cc;
+  }
+  
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  }
+
+  .accordion-content {
+    white-space: pre-line;
+    text-align: center;
+    background: #F4CFCF;
+    border-radius: 10px;
+  }
+
+  
+  .container {
+    padding-top: 13px;
+    padding-bottom: 12px;
+    padding-left: 15.18px;
+    padding-right: 15.18px;
+    position: relative;
+  }
+  
+  .top-left-button {
+    box-sizing: border-box;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    margin-right: 1722px;
+    margin-bottom: 1008px;
+    width: 173px;
+    height: 47px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    background: #F6ECEC;
+    border: 1.00847px solid #D46767;
+  }

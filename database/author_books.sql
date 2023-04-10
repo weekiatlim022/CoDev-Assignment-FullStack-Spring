@@ -1,0 +1,15 @@
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (1, 1, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (2, 2, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (3, 3, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (4, 4, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (5, 5, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (6, 6, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (7, 7, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (8, 8, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (9, 9, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (10, 10, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (11, 11, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (12, 12, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (13, 13, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (14, 14, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
+INSERT INTO "author_books" ("author_id", "book_id", "created_at", "updated_at") VALUES (15, 15, '2023-04-08 12:00:00', '2023-04-08 12:00:00');
